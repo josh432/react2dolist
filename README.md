@@ -1,3 +1,5 @@
+A review of react, this app is a simple todolist using axios and jsonplaceholder to simulate a backend. View live app at: https://2dolist.netlify.com/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
